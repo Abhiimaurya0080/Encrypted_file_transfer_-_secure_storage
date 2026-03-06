@@ -1,3 +1,12 @@
+Encrypt_file_transfer/
+│
+├── server.py
+├── client.py
+├── crypto_utils.py
+├── uploads/
+├── test.txt
+└── README.md
+
 🔐 Secure Encrypted File Transfer System
 
 A Python-based secure file transfer system that enables encrypted file upload and download between a client and server. The system ensures confidentiality, integrity, and secure storage using modern cryptographic techniques.

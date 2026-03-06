@@ -1,0 +1,8 @@
+"I have strong foundational skills in Cyber Security, including network security, threat detection, and incident response.
+ I am familiar with monitoring and analyzing security events in a Security Operations Center (SOC) environment and
+  have experience with log analysis and basic threat hunting. I understand key networking concepts
+ such as TCP/IP, DNS, HTTP, and packet analysis. I have hands-on experience using security tools
+  like Wireshark, Nmap, Burp Suite, and basic Metasploit. My technical skills also include working with Linux,
+   Python for security automation, Git and GitHub, and understanding encryption and cryptography. Additionally, 
+   I am knowledgeable about common cyber threats and vulnerabilities such as OWASP Top 10, SQL injection, phishing attacks, 
+   social engineering, brute force attacks, and man-in-the-middle attacks."
